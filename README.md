@@ -2,7 +2,7 @@
 
 Submitted by: **TaeVon Lewis**
 
-**Be Real Clone** is an app that ... [TODO] 
+**Be Real Clone** is a clone of BeReal that allows users to post a photo of what they’re currently doing upon receiving a random notification during the day. Only after posting a photo can the user see their friends’ photos.
 
 Time spent: **1** hours spent in total
 
@@ -27,7 +27,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src=https://user-images.githubusercontent.com/65370736/228339800-01ac6c59-2ad2-4baa-8069-daa7318884cd.gif title="Video Walkthrough" alt="Video Walkthrough" />
 
 ## License
 
